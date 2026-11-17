@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 <!--
-**Tamilmani41/Tamilmani41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently
 
-Here are some ideas to get you started:
+- 🔭 Building gameplay systems and technical prototypes.
+- 🌱 Exploring procedural generation, physics, and graphics programming.
+- 💬 Happy to discuss Unity, C#, gameplay mechanics, and game systems.
+- 👯 Open to connecting with fellow game developers and collaborating on interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+
+- Portfolio: 
+- LinkedIn: www.linkedin.com/in/tamilmani41
+- Itch.io: https://itch.io/profile/cosmyth
