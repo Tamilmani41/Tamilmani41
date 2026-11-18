@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 ### Currently
 
 - 🔭 Building gameplay systems and technical prototypes.
@@ -10,6 +8,5 @@
 
 ### Connect
 
-- Portfolio: 
 - LinkedIn: www.linkedin.com/in/tamilmani41
 - Itch.io: https://itch.io/profile/cosmyth
